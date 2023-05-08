@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"OOP_SOLUTIONS","l":"pckg_algoritam"}];updateSearchResults();

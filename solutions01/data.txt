@@ -1,0 +1,8 @@
+Albania, Australia, Argentina, Bahamas, Belgium, BiH, Brazil,
+Bulgaria, Chile, Croatia, Canada, Colombia, Cuba, Cyprus, Denmark, Dominican Republic,
+Egypt, Ecuador, Estonia, Finland, France, Germany, Ghana, Greece, Hungary, India,
+Iran, Jordan, Kenya, Latvia, Luxembourg, Madagascar, Malta, Mexico, Montenegro,
+Morocco, Nepal, Netherlands, New Zealand, North Korea, Norway, Panama, Pakistan,
+Paraguay, Qatar, Romania, San Marino, Samoa, Singapore, Sudan, Tanzania, Uganda,
+Venezuela, Vietnam, Slovenia, Poland, Slovakia, United States of America, United Kingdom,
+Senegal, Uganda, Yemen, Laos, Papua New Guinea
